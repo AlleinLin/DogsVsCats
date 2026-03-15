@@ -1,0 +1,44 @@
+D:\ProgramData\anaconda3\python.exe D:\DogVsCat-main\train.py 
+train 1 epoch loss: 0.577  acc: 69.240 
+test  1 epoch loss: 0.613  acc: 68.135 
+train 2 epoch loss: 0.536  acc: 72.835 
+test  2 epoch loss: 0.453  acc: 78.300 
+train 3 epoch loss: 0.436  acc: 79.255 
+test  3 epoch loss: 0.366  acc: 83.875 
+train 4 epoch loss: 0.360  acc: 83.970 
+test  4 epoch loss: 0.283  acc: 87.580 
+
+train 5 epoch loss: 0.292  acc: 87.025 
+test  5 epoch loss: 0.234  acc: 90.765 
+train 6 epoch loss: 0.234  acc: 89.930 
+test  6 epoch loss: 0.206  acc: 91.095 
+
+train 7 epoch loss: 0.192  acc: 92.020 
+test  7 epoch loss: 0.124  acc: 95.755 
+train 8 epoch loss: 0.155  acc: 93.450 
+test  8 epoch loss: 0.142  acc: 94.130 
+
+train 9 epoch loss: 0.118  acc: 95.205 
+test  9 epoch loss: 0.089  acc: 96.840 
+train 10 epoch loss: 0.093  acc: 96.410 
+test  10 epoch loss: 0.076  acc: 97.050 
+
+train 11 epoch loss: 0.068  acc: 97.415 
+test  11 epoch loss: 0.056  acc: 97.980 
+train 12 epoch loss: 0.061  acc: 97.630 
+test  12 epoch loss: 0.034  acc: 99.110 
+
+train 13 epoch loss: 0.049  acc: 98.110 
+test  13 epoch loss: 0.020  acc: 99.395 
+train 14 epoch loss: 0.050  acc: 98.155 
+test  14 epoch loss: 0.110  acc: 95.455 
+train 15 epoch loss: 0.034  acc: 98.745 
+test  15 epoch loss: 0.018  acc: 99.415 
+train 16 epoch loss: 0.024  acc: 99.205 
+test  16 epoch loss: 0.007  acc: 99.770 
+train 17 epoch loss: 0.024  acc: 99.205 
+test  17 epoch loss: 0.034  acc: 98.705 
+train 18 epoch loss: 0.020  acc: 99.225 
+test  18 epoch loss: 0.034  acc: 98.760 
+
+进程已结束，退出代码为 0
